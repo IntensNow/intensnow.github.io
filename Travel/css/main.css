@@ -75,7 +75,7 @@
   max-width: 350px;
   position: relative;
   overflow: hidden;
-  background-image: url('../../img/spritesheet.png');
+  background-image: url('../img/spritesheet.png');
   background-repeat: no-repeat;
 }
 .hobbie_inspiration {
@@ -177,7 +177,7 @@
 .main-header {
   height: auto;
   min-height: 100vh;
-  background: url(../../img/Header/Lake.@1.25x.jpg);
+  background: url(../img/Header/Lake.@1.25x.jpg);
   background-size: cover;
 }
 .main-header__content {
@@ -417,7 +417,7 @@ body {
 }
 
 .social {
-  background-image: url('../../img/social-spritesheet.png');
+  background-image: url('../img/social-spritesheet.png');
   background-repeat: no-repeat;
   display: block;
   height: 18px;
@@ -487,7 +487,7 @@ body {
   height: 234px;
   float: left;
   position: relative;
-  background-image: url('../../img/spritesheet.png');
+  background-image: url('../img/spritesheet.png');
   background-repeat: no-repeat;
 }
 .travel-section__date {
